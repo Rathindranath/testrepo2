@@ -4,3 +4,4 @@ if hungry=="yes":
 else:
    print ("do your homework")
    print finance doc
+   print play football
