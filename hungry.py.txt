@@ -3,5 +3,5 @@ if hungry=="yes":
    print ("eat samosa")
 else:
    print ("do your homework")
-   print finance doc
-   print play football
+   
+ 
